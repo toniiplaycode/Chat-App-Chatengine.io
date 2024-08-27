@@ -1,0 +1,2 @@
+- tutorial (https://blog.chatengine.io/fullstack-chat/nodejs-reactjs)
+- chạy frontend của VITE: "npm run dev"
